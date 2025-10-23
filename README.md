@@ -1,6 +1,6 @@
 # Text Adventure Game
 
-A small console-based text adventure written in C# targeting .NET 8. Navigate floors, solve riddles, and face the final boss — the Evil Wizard Bugger — to save caffeine and programmers everywhere.
+A small console-based text adventure written in C# targeting .NET 8.
 
 ## Features
 - Console-driven interactive story and puzzles
@@ -47,7 +47,7 @@ All major gameplay units are implemented as small classes so adding new floors o
 - For changes, create a branch, implement tests where feasible, and submit a pull request with a clear description.
 
 ## License
-This project is provided under the MIT License. See `LICENSE` for details (or add one if missing).
+This project is provided under the MIT License.
 
 ## Credits
 Created using Visual Studio and .NET. Thanks to everyone who enjoys debugging with coffee.
